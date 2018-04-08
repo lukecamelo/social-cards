@@ -1,0 +1,23 @@
+.User {
+    height: 50px;
+    width: 200px;
+    background-color: white;
+    float: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    border-radius: 2%;
+    box-shadow: 2px 2px 5px chocolate;
+}
+
+.Box {
+    height: 40px;
+    width: 40px;
+    background-color: lightcoral;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    box-shadow: 1px 1px 2px rgb(145, 75, 75);
+}

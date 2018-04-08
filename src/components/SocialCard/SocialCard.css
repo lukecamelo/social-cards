@@ -1,0 +1,20 @@
+.Container {
+    margin-top: 50px;
+    margin-right: 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 1%;
+    width: 500px;
+    height: 300px;
+    background-color: coral;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    position: relative;
+    box-shadow: 5px 5px 2px lightgray;
+}
+
+.Container h1 {
+    color: white;
+    vertical-align: middle;
+}
