@@ -6,7 +6,7 @@ class App extends Component {
   constructor(props){
     super(props);
     this.state = {
-      bgText: ['Heyoooooo', 'fuck you bitch boy']
+      bgText: ['Heyoooooo', 'nice young lad here']
     };
   }
   render() {
