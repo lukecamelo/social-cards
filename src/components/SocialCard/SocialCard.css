@@ -17,4 +17,6 @@
 .Container h1 {
     color: white;
     vertical-align: middle;
+    padding-left: 10px;
+    padding-right: 10px;
 }
