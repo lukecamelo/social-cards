@@ -1,7 +1,7 @@
 import React from 'react';
 import './User.css';
 
-const user = () => {
+const user = (props) => {
 
     const pStyle = {
         float: 'left',
@@ -12,7 +12,7 @@ const user = () => {
 
    return(
        <div className='User'>
-           <p style={pStyle} >name here</p>
+           <p style={pStyle} >{props.user}</p>
            <div className='Box'></div>
        </div>
    );     

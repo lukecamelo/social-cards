@@ -11,7 +11,8 @@ class SocialCard extends Component {
         return (
             <div className='Container'>
                 <h1>{this.props.text}</h1>
-                <User />
+                <User 
+                user={this.props.name}/>
             </div>
         );
     }
