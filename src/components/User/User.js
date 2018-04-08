@@ -12,7 +12,7 @@ const user = () => {
 
    return(
        <div className='User'>
-           <p style={pStyle} >Luke Camelo</p>
+           <p style={pStyle} >name here</p>
            <div className='Box'></div>
        </div>
    );     
