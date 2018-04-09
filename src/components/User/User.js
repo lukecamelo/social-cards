@@ -7,7 +7,7 @@ const user = (props) => {
         float: 'left',
         marginTop: '12.5px',
         marginBottom: '12.5px',
-        marginLeft: '15px'
+        marginLeft: '15px',
     };
 
    return(
